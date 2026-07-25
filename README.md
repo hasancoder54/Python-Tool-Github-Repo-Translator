@@ -23,6 +23,6 @@ Olabildiğince Kütüphane Kullanılmıştır.
 Projeyi yerel cihazınıza klonlayın veya ZIP olarak indirin:
 
 ```bash
-git clone [https://github.com/kullaniciadi/repo-translator.git](https://github.com/kullaniciadi/repo-translator.git)
-cd repo-translator
+git clone https://github.com/hasancoder54/Python-Tool-Github-Repo-Translator/tree/main
+cd Python-Tool-Github-Repo-Translator
 python translator.py
