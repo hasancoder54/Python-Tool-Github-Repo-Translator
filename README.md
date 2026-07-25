@@ -25,5 +25,4 @@ Projeyi yerel cihazınıza klonlayın veya ZIP olarak indirin:
 ```bash
 git clone [https://github.com/kullaniciadi/repo-translator.git](https://github.com/kullaniciadi/repo-translator.git)
 cd repo-translator
-Komut Dosyasını çalıştırın:
 python translator.py
